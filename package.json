@@ -1,0 +1,22 @@
+{
+  "name": "cypress-ecomm-pub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "cypress run",
+    "test:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sardjonoanargya/cypress-ecomm-pub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sardjonoanargya/cypress-ecomm-pub/issues"
+  },
+  "homepage": "https://github.com/sardjonoanargya/cypress-ecomm-pub#readme"
+}
